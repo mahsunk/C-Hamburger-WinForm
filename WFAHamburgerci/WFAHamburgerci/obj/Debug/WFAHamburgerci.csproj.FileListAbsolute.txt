@@ -1,0 +1,56 @@
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.Cache
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojResolveAssemblyReference.cache
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.MyMDIForm.resources
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form2.resources
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form3.resources
+C:\Users\alp1\Desktop\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form4.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS1 - Introduction\YMS1P\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS1 - Introduction\YMS1P\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS1 - Introduction\YMS1P\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojResolveAssemblyReference.cache
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form2.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form3.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form4.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.MyMDIForm.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\ridvan\Desktop\Bilge Adam 2017 .Net Track Müfredat\YMS2 - Object Oriented Programming\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.Cache
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojResolveAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form2.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form3.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form4.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.MyMDIForm.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.Cache
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe.config
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.exe
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.pdb
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.exe
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\bin\Debug\WFAHamburgerci.pdb
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form1.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form2.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form3.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Form4.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.MyMDIForm.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.Properties.Resources.resources
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.GenerateResource.Cache
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csprojAssemblyReference.cache
+C:\Users\Gizem İşeri\Desktop\2018 Müfredat\2) OOP\YMS2P1 - Hamburgerci OOP - boş\YMS1P-WFAHamburgerci\WFAHamburgerci\WFAHamburgerci\obj\Debug\WFAHamburgerci.csproj.CoreCompileInputs.cache
